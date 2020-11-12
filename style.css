@@ -1,0 +1,22 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: boder-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    width: 100%;
+    background-color: white;
+}
+
+.container {
+    background-color: yellow;
+    border: 2px dashed green;
+    width: 20rem;
+    height: 20rem;
+}
